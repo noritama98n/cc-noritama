@@ -6,4 +6,5 @@ if ($time < 12){
 }elseif($time >= 12){
     echo '午後です';
 }
+echo phpinfo();
 ?>
